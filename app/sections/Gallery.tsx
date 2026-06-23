@@ -14,13 +14,13 @@ export default function Gallery() {
     {
       url: "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=600&auto=format&fit=crop",
       tag: "Noches",
-      title: "Hamburgruesas Artesanales",
+      title: "Hamburgruesas ",
       size: "md:col-span-1 md:row-span-1"
     },
     {
       url: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=600&auto=format&fit=crop",
       tag: "Arte Corporal",
-      title: "Danza y Acrobacia en Telas",
+      title: "Danza en Telas",
       size: "md:col-span-1 md:row-span-2" // Tarjeta alta
     },
     {
